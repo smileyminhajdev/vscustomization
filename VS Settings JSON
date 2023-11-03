@@ -1,41 +1,44 @@
 {
-    "editor.fontFamily": "*Fira Code*",
+  "editor.fontFamily": "*Fira Code*",
 "editor.fontLigatures": true,
-    "workbench.iconTheme": "vscode-icons",
-    "json.schemas": [
+  "workbench.iconTheme": "vscode-icons",
+  "json.schemas": [
 
-    ],
-    "liveServer.settings.donotVerifyTags": true,
-    "explorer.confirmDelete": false,
-    "editor.fontSize": 18,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "editor.wordWrap": "on",
-    "workbench.colorTheme": "Dracula",
-    
-    "workbench.colorCustomizations": {
-        "editor.selectionBackground": "#2011f3",
-        "editor.selectionHighlightBackground": "#ffff00",
-        "editorGroupHeader.tabsBackground": "#2c2c54",
-        "activityBar.background": "#958ef8",
-        "activityBar.background": "#958ef8",
-        "sideBar.background": "#958ef857",
-        "sideBar.border": "#a200ff",
-        "minimap.background": "#141422",
-        "tab.activeBackground": "#706fd3",
-        "tab.inactiveBackground": "#191846",
-        "terminal.border": "#2c2c54",
-        "terminal.background": "#2c2c54",
-        "statusBar.background": "#474787",
-        "scrollbarSlider.background": "#9090da",
-        "scrollbarSlider.hoverBackground": "#706fd3"
-      },
+  ],
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 18,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.wordWrap": "on",
+  "workbench.colorTheme": "Dracula",
+  
+  "workbench.colorCustomizations": {
+      "editor.selectionBackground": "#2011f3",
+      "editor.selectionForeground": "#ffff00",
+      
+      "editorGroupHeader.tabsBackground": "#2c2c54",
+      "activityBar.background": "#958ef8",
+      "sideBar.background": "#9c07f357",
+      "sideBar.border": "#a200ff",
+      "minimap.background": "#353542",
+      "tab.activeBackground": "#302ead",
+      "tab.inactiveBackground": "#191846",
+      "terminal.border": "#2c2c54",
+      "terminal.background": "#2c2c54",
+      "statusBar.background": "#474787",
+      "scrollbarSlider.background": "#9090da",
+      "scrollbarSlider.hoverBackground": "#706fd3"
+      "tab.inactiveForeground": "#ffffff"
+      "tab.activeForeground": "#f30101"
+    },
 
 
-    "editor.cursorBlinking": "expand",
-    "editor.cursorSmoothCaretAnimation": "explicit",
-    "launch": {
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "launch": {
 
-        "configurations": [],
-        "compounds": []
-    }
+
+      "configurations": [],
+      "compounds": []
+  }
 }
